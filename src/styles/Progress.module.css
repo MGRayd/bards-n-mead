@@ -1,0 +1,49 @@
+.progressContainer {
+    padding: 2rem;
+    max-width: 900px;
+    margin: auto;
+    color: #fff;
+}
+  
+.progressContainer h1 {
+    font-size: 2rem;
+    margin-bottom: 1.5rem;
+    color: #f4a261;
+}
+  
+.progressList {
+    list-style: none;
+    padding-left: 0;
+}
+  
+.progressList li {
+    margin-bottom: 1rem;
+    font-size: 1.1rem;
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+}
+  
+.progressList li::before {
+    content: '📌';
+    font-size: 1.2rem;
+}
+
+.screenshotGallery {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    gap: 1rem;
+    margin-top: 2rem;
+}
+  
+.screenshotGallery img {
+    width: 100%;
+    border-radius: 8px;
+    border: 1px solid #333;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.3);
+    transition: transform 0.2s ease;
+}
+  
+.screenshotGallery img:hover {
+    transform: scale(1.03);
+}
