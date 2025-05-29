@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/bards-n-mead/static/css/main.4b51a0dc.css",
-    "main.js": "/bards-n-mead/static/js/main.f9f9cbaf.js",
+    "main.css": "/bards-n-mead/static/css/main.db95ee2f.css",
+    "main.js": "/bards-n-mead/static/js/main.7119b3bb.js",
     "static/js/453.9cd01355.chunk.js": "/bards-n-mead/static/js/453.9cd01355.chunk.js",
     "index.html": "/bards-n-mead/index.html",
-    "main.4b51a0dc.css.map": "/bards-n-mead/static/css/main.4b51a0dc.css.map",
-    "main.f9f9cbaf.js.map": "/bards-n-mead/static/js/main.f9f9cbaf.js.map",
+    "main.db95ee2f.css.map": "/bards-n-mead/static/css/main.db95ee2f.css.map",
+    "main.7119b3bb.js.map": "/bards-n-mead/static/js/main.7119b3bb.js.map",
     "453.9cd01355.chunk.js.map": "/bards-n-mead/static/js/453.9cd01355.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.4b51a0dc.css",
-    "static/js/main.f9f9cbaf.js"
+    "static/css/main.db95ee2f.css",
+    "static/js/main.7119b3bb.js"
   ]
 }
