@@ -33,7 +33,6 @@ export default function Progress() {
       {selectedImage && (
         <div className={styles.modal} onClick={handleCloseModal}>
           <div className={styles.modalContent}>
-            <span className={styles.closeButton} onClick={handleCloseModal}>&times;</span>
             <img src={selectedImage} alt="Expanded view" />
           </div>
         </div>
